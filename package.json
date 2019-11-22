@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/dmmlabo/prettier-config/issues"
   },
-  "homepage": "https://github.com/dmmlabo/prettier-config#readme"
+  "homepage": "https://github.com/dmmlabo/prettier-config#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
